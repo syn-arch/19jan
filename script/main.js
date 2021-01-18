@@ -43,7 +43,6 @@ const animationTimeline = () => {
         {
           opacity: 0,
           y: 10,
-          delay : 4
         },
         "+=2"
         )
